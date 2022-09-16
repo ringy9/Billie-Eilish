@@ -1,62 +1,19 @@
-{
-    "data" : [
-        {
-          
-            "network": "max",
-            
-            "max_ban": "58f3ed9e373e29d2",
-            "max_int": "4341d205972f3972",
-            
-            "is_app_key": "154b0d031",
-            "is_ban": "DefaultBanner",
-            "is_int": "DefaultInterstitial",
-            
-            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
-            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+[
+   {
+       "Name":"HKJHKHK",
+       "Description":"KJKKHKJKJNK",
+       "IconUrl":"https://i.postimg.cc/7YMpm9Jn/34bb9d0aaee6656204aaccfaccf9814c.jpg"
+   },
 
-            "name": "Billie Eilish",
-            "photo": "https://i.postimg.cc/7YMpm9Jn/34bb9d0aaee6656204aaccfaccf9814c.jpg",
-            "voice": "https://ringy9.github.io/Billie-Eilish/video01.mp4",
-            "video": "https://ringy9.github.io/Billie-Eilish/video01.mp4",
-            "stories": [
-               "https://i.postimg.cc/mk36pZkg/1654b5befc9cc21f5525380178154325.jpg",
-"https://i.postimg.cc/7YMpm9Jn/34bb9d0aaee6656204aaccfaccf9814c.jpg",
-"https://i.postimg.cc/fThGcpyb/4bb502ebbb3c07a1924fca7f27957a42.jpg",
-"https://i.postimg.cc/SKj3QpTg/50e3c797fbe2d8fce1b0f4b92efb6298.jpg",
-"https://i.postimg.cc/wvmrJQdJ/55680c1d922dc016906980258db1e022.jpg",
-"https://i.postimg.cc/Gtn5jTcf/76d41e17a07d949a34b64352eb1a2b1f.jpg",
-"https://i.postimg.cc/ht2NqGrJ/813ea9009cad42b6ff210f3fc293420c.jpg",
-"https://i.postimg.cc/wBPP7bng/82f42ca0db97a375fedf57b199935f57.jpg",
-"https://i.postimg.cc/nhFN5mvb/a077eee63a84471ac3030dab63897091.jpg",
-"https://i.postimg.cc/RV9Y6tp6/c52af9c997dd78fff78e46f8d8129bce.jpg",
-"https://i.postimg.cc/5N3RwtDP/c9bae8d48c7844da080ba91f62c050d0.jpg",
-"https://i.postimg.cc/R03p5Lh8/d61b44a34cdc34275f5d39b2adc18508.jpg",
-"https://i.postimg.cc/G3vNmKKn/d6e122f1787b64ae585c31671189a465.jpg",
-"https://i.postimg.cc/zG22cczK/dcc59da667098f821aa492e2c7dd8774.jpg",
-"https://i.postimg.cc/cLL5TSSd/e4bcfa851e4ef2837dfe9e6abb2992eb.jpg",
-"https://i.postimg.cc/HLfZp87L/f558f04782844f01964e8f191632871d.jpg",
-"https://i.postimg.cc/Kjb0TXfS/original.jpg"
-            ],
-            "wallpapers": [
-              "https://i.postimg.cc/mk36pZkg/1654b5befc9cc21f5525380178154325.jpg",
-"https://i.postimg.cc/7YMpm9Jn/34bb9d0aaee6656204aaccfaccf9814c.jpg",
-"https://i.postimg.cc/fThGcpyb/4bb502ebbb3c07a1924fca7f27957a42.jpg",
-"https://i.postimg.cc/SKj3QpTg/50e3c797fbe2d8fce1b0f4b92efb6298.jpg",
-"https://i.postimg.cc/wvmrJQdJ/55680c1d922dc016906980258db1e022.jpg",
-"https://i.postimg.cc/Gtn5jTcf/76d41e17a07d949a34b64352eb1a2b1f.jpg",
-"https://i.postimg.cc/ht2NqGrJ/813ea9009cad42b6ff210f3fc293420c.jpg",
-"https://i.postimg.cc/wBPP7bng/82f42ca0db97a375fedf57b199935f57.jpg",
-"https://i.postimg.cc/nhFN5mvb/a077eee63a84471ac3030dab63897091.jpg",
-"https://i.postimg.cc/RV9Y6tp6/c52af9c997dd78fff78e46f8d8129bce.jpg",
-"https://i.postimg.cc/5N3RwtDP/c9bae8d48c7844da080ba91f62c050d0.jpg",
-"https://i.postimg.cc/R03p5Lh8/d61b44a34cdc34275f5d39b2adc18508.jpg",
-"https://i.postimg.cc/G3vNmKKn/d6e122f1787b64ae585c31671189a465.jpg",
-"https://i.postimg.cc/zG22cczK/dcc59da667098f821aa492e2c7dd8774.jpg",
-"https://i.postimg.cc/cLL5TSSd/e4bcfa851e4ef2837dfe9e6abb2992eb.jpg",
-"https://i.postimg.cc/HLfZp87L/f558f04782844f01964e8f191632871d.jpg",
-"https://i.postimg.cc/Kjb0TXfS/original.jpg"
-            ]
-          
-        }
-    ]
-}
+   {
+       "Name":"......",
+       "Description":".....",
+       "IconUrl":"......"
+   },
+
+   {
+       "Name":"......",
+       "Description":".....",
+       "IconUrl":"......"
+   }
+]
