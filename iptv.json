@@ -188,14 +188,14 @@
         {
             "title" : "Bein Sport 1",
             "ico" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/300px-Logo_bein_sports_1.png?20170228135319",
-            "link" : "http://bestott.net:80/1731891773/647F1289637601D/203882",
+            "link" : "http://bestott.net:80/1731891773/647F1289637601D/73363",
             "type" : "iptv"
         },
         {
             "title" : "Sport+",
             "ico" : "https://e7.pngegg.com/pngimages/60/763/png-clipart-television-channel-logo-sport-sports-logo-television-blue.png",
-            "link" : "<iframe allowfullscreen='true' frameborder='0' height='500px' scrolling='no' src='https://www.yallashoota.com/p/bein-sports-1-hd_2.html' width='100%'></iframe>",
-            "type" : "embed"
+            "link" : "http://bestott.net:80/1731891773/647F1289637601D/27901",
+            "type" : "iptv"
         },
         {
             "title" : "MNC Sports 1",
