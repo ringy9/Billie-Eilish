@@ -1,7 +1,7 @@
 {
     "config" : [
         {
-            "network" : "iron",
+            "network" : "admob",
             "activate_ads" : "true",
             "int_interval" : 4,
 
