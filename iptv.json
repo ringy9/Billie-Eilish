@@ -1,7 +1,7 @@
 {
     "config" : [
         {
-            "network" : "max",
+            "network" : "iron",
             "activate_ads" : "true",
             "int_interval" : 4,
 
@@ -188,7 +188,7 @@
         {
             "title" : "Bein Sport 1",
             "ico" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/300px-Logo_bein_sports_1.png?20170228135319",
-            "link" : "http://bestott.net:80/1731891773/647F1289637601D/149610",
+            "link" : "http://bestott.net:80/1731891773/647F1289637601D/203882",
             "type" : "iptv"
         },
         {
