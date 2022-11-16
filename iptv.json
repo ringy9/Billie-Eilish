@@ -9,7 +9,7 @@
             "groups_matches_active" : "on",
             "groups_news_active" : "on",
             "iptv_active" : "off",
-            "live_active" : "on",
+            "live_active" : "off",
 
             "admob_ban": "ca-app-pub-3940256099942544/6300978111",
             "admob_native" : "ca-app-pub-3940256099942544/2247696110",
@@ -186,6 +186,12 @@
 
     "servers" : [
         {
+            {
+            "title" : "tunisie vs iran",
+            "ico" : "https://i.postimg.cc/HsrjpLVJ/amical-la-tunisie-affronta-l-iran-le-16-novembre-a-doha-1666535792.jpg",
+            "link" : "http://bestott.net:80/M8617237/65115675D35A/73363",
+            "type" : "iptv"
+        },
             "title" : "السعودية ضد كرواتيا",
             "ico" : "https://i.postimg.cc/xC0PWFSY/saudia-vs-croitia.png",
             "link" : "http://bestott.net:80/1731891773/647F1289637601D/255702",
