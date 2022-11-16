@@ -29,7 +29,7 @@
         }
     ],
 
-    "groups" : [
+"groups" : [
         {
             "groupa" : [
                 {
@@ -186,13 +186,17 @@
 
     "servers" : [
         {
-            {
-            "title" : "tunisie vs iran",
-            "ico" : "https://i.postimg.cc/HsrjpLVJ/amical-la-tunisie-affronta-l-iran-le-16-novembre-a-doha-1666535792.jpg",
+            "title" : "Bein Sport 1",
+            "ico" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/300px-Logo_bein_sports_1.png?20170228135319",
+            "link" : "http://bestott.net:80/M8617237/65115675D35A/73363",
+            "type" : "iptv"
+        },
+        {
+            "title" : "Sport+",
+            "ico" : "https://e7.pngegg.com/pngimages/60/763/png-clipart-television-channel-logo-sport-sports-logo-television-blue.png",
             "link" : "http://bestott.net:80/M8617237/65115675D35A/73363",
             "type" : "iptv"
         }
-     
     ],
     
     "news" : [
