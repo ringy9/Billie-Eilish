@@ -3,7 +3,7 @@
         {
             "network" : "max",
             "activate_ads" : "true",
-            "int_interval" : 3,
+            "int_interval" : 2,
 
             "groups_box_active" : "on",
             "groups_matches_active" : "on",
@@ -183,24 +183,23 @@
             "stadium" : "Al Bayt Stadium"
         }
     ],
-
     "servers" : [
         {
-            "title" : "المغرب ضد جورجيا",
-            "ico" : "https://i.postimg.cc/6QMhvWkJ/MOROCO-VS-GORJYA.png",
-            "link" : "http://bestott.net:80/1731891773/647F1289637601D/1056",
+            "title" : "HD 1080p بلجيكا ضد مصر",
+            "ico" : "https://i.postimg.cc/Nfdwq9xt/650x420.jpg",
+            "link" : "http://bestott.net:80/1731891773/647F1289637601D/808",
             "type" : "iptv"
         },
         {
-            "title" : "الأردن ضد اسبانيا",
-            "ico" : "https://i.postimg.cc/Dyd9WswS/390x220.jpg",
-            "link" : "http://bestott.net:80/1731891773/647F1289637601D/719",
+            "title" : "HD 720p بلجيكا ضد مصر",
+            "ico" : "https://i.postimg.cc/Nfdwq9xt/650x420.jpg",
+            "link" : "http://bestott.net:80/1731891773/647F1289637601D/809",
             "type" : "iptv"
         },
         {
-            "title" : "البرتغال ضد نيجيريا",
-            "ico" : "https://i.postimg.cc/R0DFj2rx/Whats-App-Image-2022-11-16-at-2-23-20-PM.webp",
-            "link" : "http://bestott.net:80/1731891773/647F1289637601D/68419",
+            "title" : "SD 480p بلجيكا ضد مصر",
+            "ico" : "https://i.postimg.cc/Nfdwq9xt/650x420.jpg",
+            "link" : "http://bestott.net:80/1731891773/647F1289637601D/809",
             "type" : "iptv"
         }
     ],
