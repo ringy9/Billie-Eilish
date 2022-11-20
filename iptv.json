@@ -9,7 +9,7 @@
             "groups_matches_active" : "on",
             "groups_news_active" : "on",
             "iptv_active" : "off",
-            "live_active" : "on",
+            "live_active" : "off",
 
             "admob_ban": "ca-app-pub-3940256099942544/6300978111",
             "admob_native" : "ca-app-pub-3940256099942544/2247696110",
@@ -183,24 +183,48 @@
             "stadium" : "Al Bayt Stadium"
         }
     ],
-    "servers" : [
-        {
-            "title" : "HD 1080p الجزائر ضد السويد",
-            "ico" : "https://i.postimg.cc/MpNW9DCG/czo2-NToia-HR0c-HM6-Ly93d3cu-ZWxm-YWdy-Lm9y-Zy9-Vc-Gxv-YWRDYWNo-ZS9sa-WJma-Wxlcy80-ODcv-Ni82-MDB4-Mz-M4by8z-OC5wbmci-Ow.jpg",
-            "link" : "http://bestott.net:80/1731891773/647F1289637601D/1012",
+   "servers" : [
+       {
+            "title" : "4K قطر ضد الإكوادور",
+            "ico" : "https://i.postimg.cc/44wDNrDj/00.png",
+            "link" : "http://bestiptvline.com:80/1731891773/647F1289637601D/318715",
+            "type" : "iptv"
+        },
+       {
+            "title" : "HD 1080p قطر ضد الإكوادور",
+            "ico" : "https://i.postimg.cc/44wDNrDj/00.png",
+            "link" : "http://bestiptvline.com:80/1731891773/647F1289637601D/318715",
             "type" : "iptv"
         },
         {
-            "title" : "HD 720p الجزائر ضد السويد",
-            "ico" : "https://i.postimg.cc/MpNW9DCG/czo2-NToia-HR0c-HM6-Ly93d3cu-ZWxm-YWdy-Lm9y-Zy9-Vc-Gxv-YWRDYWNo-ZS9sa-WJma-Wxlcy80-ODcv-Ni82-MDB4-Mz-M4by8z-OC5wbmci-Ow.jpg",
-            "link" : "http://bestott.net:80/1731891773/647F1289637601D/1012",
+            "title" : "HD 1080p قطر ضد الإكوادور",
+            "ico" : "https://i.postimg.cc/44wDNrDj/00.png",
+            "link" : "http://bestiptvline.com:80/1731891773/647F1289637601D/318715",
+            "type" : "iptv"
+        },
+       {
+            "title" : "HD 720p قطر ضد الإكوادور",
+            "ico" : "https://i.postimg.cc/44wDNrDj/00.png",
+            "link" : "http://bestiptvline.com:80/1731891773/647F1289637601D/318719",
             "type" : "iptv"
         },
         {
-            "title" : "SD 480p الجزائر ضد السويد",
-            "ico" : "https://i.postimg.cc/MpNW9DCG/czo2-NToia-HR0c-HM6-Ly93d3cu-ZWxm-YWdy-Lm9y-Zy9-Vc-Gxv-YWRDYWNo-ZS9sa-WJma-Wxlcy80-ODcv-Ni82-MDB4-Mz-M4by8z-OC5wbmci-Ow.jpg",
-            "link" : "https://kwmedia.hibridcdn.net/kwmedia/kwtvsports_abr/kwmedia/kwtvsports_480p/chunks.m3u8?p=53&s=1668866786&e=1668953186&cf=1668953186&h=0f8b48a96e3e77147a0122ab64e2e7f7",
-            "type" : "direct"
+            "title" : "HD 720p قطر ضد الإكوادور",
+            "ico" : "https://i.postimg.cc/44wDNrDj/00.png",
+            "link" : "http://bestiptvline.com:80/1731891773/647F1289637601D/318719",
+            "type" : "iptv"
+        },
+       {
+            "title" : "HD 480p قطر ضد الإكوادور",
+            "ico" : "https://i.postimg.cc/44wDNrDj/00.png",
+            "link" : "http://bestiptvline.com:80/1731891773/647F1289637601D/318723",
+            "type" : "iptv"
+        },
+        {
+            "title" : "SD 480p قطر ضد الإكوادور",
+            "ico" : "https://i.postimg.cc/44wDNrDj/00.png",
+            "link" : "http://bestiptvline.com:80/1731891773/647F1289637601D/318723",
+            "type" : "iptv"
         }
     ],
     
