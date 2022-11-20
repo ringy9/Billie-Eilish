@@ -9,7 +9,7 @@
             "groups_matches_active" : "on",
             "groups_news_active" : "on",
             "iptv_active" : "off",
-            "live_active" : "off",
+            "live_active" : "on",
 
             "admob_ban": "ca-app-pub-3940256099942544/6300978111",
             "admob_native" : "ca-app-pub-3940256099942544/2247696110",
@@ -185,47 +185,18 @@
     ],
    "servers" : [
        {
-            "title" : "4K قطر ضد الإكوادور",
+            "title" : "النمسا ضد ايطاليا",
             "ico" : "https://i.postimg.cc/44wDNrDj/00.png",
-            "link" : "https://streamalkass.azureedge.net/8007308a-93af-454a-89a2-11f7ab76aa06/2fdc8ecf-15bb-4608-9541-1d1f9429e6a4.ism/QualityLevels(3000000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio_und)",
-            "type" : "direct"
+            "link" : "http://bestott.net:80/M8617237/65115675D35A/27898",
+            "type" : "iptv"
         },
        {
-            "title" : "HD 1080p قطر ضد الإكوادور",
+            "title" : "النمسا ضد ايطاليا",
             "ico" : "https://i.postimg.cc/44wDNrDj/00.png",
-            "link" : "https://streamalkass.azureedge.net/8007308a-93af-454a-89a2-11f7ab76aa06/2fdc8ecf-15bb-4608-9541-1d1f9429e6a4.ism/QualityLevels(3000000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio_und)",
-            "type" : "direct"
-        },
-        {
-            "title" : "HD 1080p قطر ضد الإكوادور",
-            "ico" : "https://i.postimg.cc/44wDNrDj/00.png",
-            "link" : "https://streamalkass.azureedge.net/8007308a-93af-454a-89a2-11f7ab76aa06/2fdc8ecf-15bb-4608-9541-1d1f9429e6a4.ism/QualityLevels(3000000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio_und)",
-            "type" : "direct"
-        },
-       {
-            "title" : "HD 720p قطر ضد الإكوادور",
-            "ico" : "https://i.postimg.cc/44wDNrDj/00.png",
-            "link" : "https://streamalkass.azureedge.net/8007308a-93af-454a-89a2-11f7ab76aa06/2fdc8ecf-15bb-4608-9541-1d1f9429e6a4.ism/QualityLevels(3000000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio_und)",
-            "type" : "direct"
-        },
-        {
-            "title" : "HD 720p قطر ضد الإكوادور",
-            "ico" : "https://i.postimg.cc/44wDNrDj/00.png",
-            "link" : "https://streamalkass.azureedge.net/8007308a-93af-454a-89a2-11f7ab76aa06/2fdc8ecf-15bb-4608-9541-1d1f9429e6a4.ism/QualityLevels(3000000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio_und)",
-            "type" : "direct"
-        },
-       {
-            "title" : "HD 480p قطر ضد الإكوادور",
-            "ico" : "https://i.postimg.cc/44wDNrDj/00.png",
-            "link" : "https://streamalkass.azureedge.net/8007308a-93af-454a-89a2-11f7ab76aa06/2fdc8ecf-15bb-4608-9541-1d1f9429e6a4.ism/QualityLevels(3000000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio_und)",
-            "type" : "direct"
-        },
-        {
-            "title" : "SD 480p قطر ضد الإكوادور",
-            "ico" : "https://i.postimg.cc/44wDNrDj/00.png",
-            "link" : "https://streamalkass.azureedge.net/8007308a-93af-454a-89a2-11f7ab76aa06/2fdc8ecf-15bb-4608-9541-1d1f9429e6a4.ism/QualityLevels(3000000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio_und)",
-            "type" : "direct"
+            "link" : "http://bestott.net:80/M8617237/65115675D35A/27898",
+            "type" : "iptv"
         }
+
     ],
     
     "news" : [
