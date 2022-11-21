@@ -9,7 +9,7 @@
             "groups_matches_active" : "on",
             "groups_news_active" : "on",
             "iptv_active" : "off",
-            "live_active" : "off",
+            "live_active" : "on",
 
             "admob_ban": "ca-app-pub-3940256099942544/6300978111",
             "admob_native" : "ca-app-pub-3940256099942544/2247696110",
@@ -185,20 +185,43 @@
     ],
    "servers" : [
        {
-            "title" : "النمسا ضد ايطاليا",
-            "ico" : "https://i.postimg.cc/fynjZvq5/x.jpg",
-            "link" : "http://bestott.net:80/M8617237/65115675D35A/27898",
+            "title" : "إنجلترا ضد إيران",
+            "ico" : "https://i.postimg.cc/Pqvb4LRn/angleterre-iran-match-football-2022-2022-world-football-competition-match-championnat-contre-equipes.webp",
+            "link" : "http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049175",
             "type" : "iptv"
         },
        {
-            "title" : "النمسا ضد ايطاليا",
-            "ico" : "https://i.postimg.cc/fynjZvq5/x.jpg",
-            "link" : "http://bestott.net:80/M8617237/65115675D35A/27898",
+            "title" : "إنجلترا ضد إيران",
+            "ico" : "https://i.postimg.cc/Pqvb4LRn/angleterre-iran-match-football-2022-2022-world-football-competition-match-championnat-contre-equipes.webp",
+            "link" : "http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049175",
+            "type" : "iptv"
+        },
+        {
+            "title" : "السنغال ضد هولندا",
+            "ico" : "https://i.postimg.cc/28fsd2sx/senegal-pays-bas-match-football-2022-2022-world-football-competition-match-championnat-contre-equipe.webp",
+            "link" : "http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049175",
+            "type" : "iptv"
+        },
+        {
+            "title" : "السنغال ضد هولندا",
+            "ico" : "https://i.postimg.cc/28fsd2sx/senegal-pays-bas-match-football-2022-2022-world-football-competition-match-championnat-contre-equipe.webp",
+            "link" : "http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049175",
+            "type" : "iptv"
+        },
+         {
+            "title" : "الولايات المتحدة الأمريكية ضد ويلز",
+            "ico" : "https://i.postimg.cc/tTK9xcVH/etats-unis-pays-galles-match-football-2022-2022-match-championnat-competition-mondiale-football-cont.webp",
+            "link" : "http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049175",
+            "type" : "iptv"
+        },
+        {
+            "title" : "الولايات المتحدة الأمريكية ضد ويلز",
+            "ico" : "https://i.postimg.cc/tTK9xcVH/etats-unis-pays-galles-match-football-2022-2022-match-championnat-competition-mondiale-football-cont.webp",
+            "link" : "http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049175",
             "type" : "iptv"
         }
 
-    ],
-    
+    ],    
     "news" : [
         {
             "title" : "World Cup 2022 takes place in Qatar from November 20 to December 18",
