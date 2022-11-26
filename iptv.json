@@ -9,7 +9,7 @@
             "groups_matches_active" : "on",
             "groups_news_active" : "on",
             "iptv_active" : "off",
-            "live_active" : "on",
+            "live_active" : "off",
 
             "admob_ban": "ca-app-pub-3940256099942544/6300978111",
             "admob_native" : "ca-app-pub-3940256099942544/2247696110",
@@ -156,89 +156,89 @@
 
     "matches" : [
         {
-            "team_a" : "Tunisia",
-            "team_b" : "Australia",
-            "flag_a" : "https://i.postimg.cc/x1yrnzw7/Tunisia.png",
-            "flag_b" : "https://i.postimg.cc/PJgGrzrG/Australia.png",
-            "date" : "Satur 26 Nov-11:00",
-            "group" : "Group D",
+            "team_a" : "Costa-Rica",
+            "team_b" : "Japan",
+            "flag_a" : "https://i.postimg.cc/FKjjrTxX/costa-rica.png",
+            "flag_b" : "https://i.postimg.cc/hjcVfVCz/japan.png",
+            "date" : "Sunday 27 Nov-11:00",
+            "group" : "Group E",
             "stadium" : "Lusail Stadium"
         },
         {
-            "team_a" : "Poland",
-            "team_b" : "Saudi-Arabia",
-            "flag_a" : "https://i.postimg.cc/Qx7GYP0j/Poland.png",
-            "flag_b" : "https://i.postimg.cc/QNwZbsg6/Saudi-Arabia.png",
-            "date" : "Satur 26 Nov-14:00",
-            "group" : "Group C",
+            "team_a" : "Morocco",
+            "team_b" : "Belgium",
+            "flag_a" : "https://i.postimg.cc/C5KD4Spw/morocco.png",
+            "flag_b" : "https://i.postimg.cc/mrxYWvCS/belgium.png",
+            "date" : "Sunday 27 Nov-14:00",
+            "group" : "Group F",
             "stadium" : "Education City Stadium"
         },
         {
-            "team_a" : "France",
-            "team_b" : "Denmark",
-            "flag_a" : "https://i.postimg.cc/qvdfPL5y/France.png",
-            "flag_b" : "https://i.postimg.cc/8cJQSnGB/Denmark.png",
-            "date" : "Satur 26 Nov-17:00",
-            "group" : "Group D",
+            "team_a" : "Canada",
+            "team_b" : "Croatia",
+            "flag_a" : "https://i.postimg.cc/RZJ78S6F/canada.png",
+            "flag_b" : "https://i.postimg.cc/zvPht6qK/croatia.png",
+            "date" : "Sunday 27 Nov-17:00",
+            "group" : "Group F",
             "stadium" : "Stadium 974"
         },
            {
-            "team_a" : "Argentina",
-            "team_b" : "Mexico",
-            "flag_a" : "https://i.postimg.cc/wvb8nYCj/Argentina.png",
-            "flag_b" : "https://i.postimg.cc/KYZ6zYFY/Mexico.png",
-            "date" : "Satur 26 Nov-20:00",
-            "group" : "Group C",
+            "team_a" : "Germany",
+            "team_b" : "Spain",
+            "flag_a" : "https://i.postimg.cc/SsdC8j5Z/germany.png",
+            "flag_b" : "https://i.postimg.cc/ZKMPVBq2/spain.png",
+            "date" : "Sunday 27 Nov-20:00",
+            "group" : "Group E",
             "stadium" : "Al Janoub Stadium"
         }
     ],
 
    "servers" : [
+       {
+            "title" : "Japan VS Costa-Rica",
+            "ico" : "https://i.postimg.cc/kMhwhh1T/japan-vs-costa-rica-match-football-2022-world-championship-match-versus-teams-on-soccer-field-intro.jpg",
+            "link" : "http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049173",
+            "type" : "iptv"
+        },
         {
-            "title" : "Tunisia VS Australia",
-            "ico" : "https://i.postimg.cc/YSzm6bJ3/tunisia-vs-australia-match-football-2022-world-championship-match-versus-teams-on-soccer-field-intro.webp",
+            "title" : "Japan VS Costa-Rica",
+            "ico" : "https://i.postimg.cc/kMhwhh1T/japan-vs-costa-rica-match-football-2022-world-championship-match-versus-teams-on-soccer-field-intro.jpg",
             "link" : "http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049173",
             "type" : "iptv"
         },
        {
-            "title" : "Tunisia VS Australia",
-            "ico" : "https://i.postimg.cc/YSzm6bJ3/tunisia-vs-australia-match-football-2022-world-championship-match-versus-teams-on-soccer-field-intro.webp",
-            "link" : "http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049173",
-            "type" : "iptv"
-        },
-       {
-            "title" : "Poland VS Saudi-Arabia",
-            "ico" : "https://i.postimg.cc/YqTgM461/poland-vs-saudi-arabia-football-2022-group-c-world-football-competition-championship-match-versus-72.webp",
+            "title" : "Morocco VS Belgium",
+            "ico" : "https://i.postimg.cc/d0m4HspC/belgique-vs-maroc-football-2022-groupe-f-match-championnat-competition-mondiale-football-contre-7280.webp",
             "link" : "http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049169",
             "type" : "iptv"
         },
         {
-            "title" : "Poland VS Saudi-Arabia",
-            "ico" : "https://i.postimg.cc/YqTgM461/poland-vs-saudi-arabia-football-2022-group-c-world-football-competition-championship-match-versus-72.webp",
+            "title" : "Morocco VS Belgium",
+            "ico" : "https://i.postimg.cc/d0m4HspC/belgique-vs-maroc-football-2022-groupe-f-match-championnat-competition-mondiale-football-contre-7280.webp",
             "link" : "http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049169",
             "type" : "iptv"
         },
         {
-            "title" : "France VS Denmark",
-            "ico" : "https://i.postimg.cc/0ymSQ8nh/france-vs-denmark-football-2022-group-d-world-football-competition-championship-match-versus-7280-74.webp",
+            "title" : "Canada VS Croatia",
+            "ico" : "https://i.postimg.cc/fykCRxL7/croatia-vs-canada-football-2022-group-e-world-football-competition-championship-match-versus-7280-73.webp",
             "link" : "http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049173",
             "type" : "iptv"
         },
        {
-            "title" : "France VS Denmarkr",
-            "ico" : "https://i.postimg.cc/0ymSQ8nh/france-vs-denmark-football-2022-group-d-world-football-competition-championship-match-versus-7280-74.webp",
+            "title" : "Canada VS Croatia",
+            "ico" : "https://i.postimg.cc/fykCRxL7/croatia-vs-canada-football-2022-group-e-world-football-competition-championship-match-versus-7280-73.webp",
             "link" : "http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049173",
             "type" : "iptv"
         },
         {
-            "title" : "Argentina VS Mexico",
-            "ico" : "https://i.postimg.cc/rpkrRvYs/argentina-vs-mexico-football-2022-group-c-world-football-competition-championship-match-versus-7280.webp",
+            "title" : "Spain VS Germany",
+            "ico" : "https://i.postimg.cc/kGZc6B60/spain-vs-germany-football-2022-group-f-world-football-competition-championship-match-versus-7280-735.webp",
             "link" : "http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049169",
             "type" : "iptv"
         },
        {
-            "title" : "Argentina VS Mexico",
-            "ico" : "https://i.postimg.cc/rpkrRvYs/argentina-vs-mexico-football-2022-group-c-world-football-competition-championship-match-versus-7280.webp",
+            "title" : "Spain VS Germany",
+            "ico" : "https://i.postimg.cc/kGZc6B60/spain-vs-germany-football-2022-group-f-world-football-competition-championship-match-versus-7280-735.webp",
             "link" : "http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049169",
             "type" : "iptv"
         }
