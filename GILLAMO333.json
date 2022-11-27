@@ -9,7 +9,7 @@
             "groups_matches_active" : "on",
             "groups_news_active" : "on",
             "iptv_active" : "off",
-            "live_active" : "on",
+            "live_active" : "off",
 
             "admob_ban": "ca-app-pub-6451220567376497/4242688339",
             "admob_native" : "ca-app-pub-6451220567376497/1221773329",
