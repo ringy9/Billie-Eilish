@@ -1,0 +1,276 @@
+{
+    "config" : [
+        {
+            "network" : "max",
+            "activate_ads" : "true",
+            "int_interval" : 2,
+
+            "groups_box_active" : "on",
+            "groups_matches_active" : "on",
+            "groups_news_active" : "on",
+            "iptv_active" : "off",
+            "live_active" : "off",
+
+            "admob_ban": "ca-app-pub-6451220567376497/4242688339",
+            "admob_native" : "ca-app-pub-6451220567376497/1221773329",
+            "admob_int": "ca-app-pub-6451220567376497/2011276663",
+
+            "fan_ban": "680075590215147_680083426881030",
+            "fan_native": "680075590215147_680083566881016",
+            "fan_int": "680075590215147_680083506881022",
+
+            "iron_key": "17417cb4d",
+            "iron_ban" : "DefaultBanner",
+            "iron_int" : "DefaultInterstitial",
+
+            "max_ban" : "9372c30e43ae2788",
+            "max_native" : "0fe44b6b70557c7a",
+            "max_int" : "4f401118f0295728"
+        }
+    ],
+
+    "groups" : [
+        {
+            "groupa" : [
+                {
+                    "name" : "Qatar",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/qatar.png"
+                },{
+                    "name" : "Ecuador",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/ecuador.png"
+                },{
+                    "name" : "Senegal",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/senegal.png"
+                },{
+                    "name" : "Netherlands",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/netherlands.png"
+                }
+            ],
+            "groupb" : [
+                {
+                    "name" : "England",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/england.png"
+                },{
+                    "name" : "Iran",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/iran.png"
+                },{
+                    "name" : "USA",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/usa.png"
+                },{
+                    "name" : "Wales",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/wales.png"
+                }
+            ],
+            "groupc" : [
+                {
+                    "name" : "Argentina",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/argentina.png"
+                },{
+                    "name" : "Saudi Arabia",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/saudi-arabia.png"
+                },{
+                    "name" : "Mexico",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/mexico.png"
+                },{
+                    "name" : "Poland",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/poland.png"
+                }
+            ],
+            "groupd" : [
+                {
+                    "name" : "France",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/france.png"
+                },{
+                    "name" : "Australia",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/australia.png"
+                },{
+                    "name" : "Denmark",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/denmark.png"
+                },{
+                    "name" : "Tunisia",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/tunisia.png"
+                }
+            ],
+            "groupe" : [
+                {
+                    "name" : "Spain",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/spain.png"
+                },{
+                    "name" : "Costa Rica",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/costa-rica.png"
+                },{
+                    "name" : "Germany",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/germany.png"
+                },{
+                    "name" : "Japan",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/japan.png"
+                }
+            ],
+            "groupf" : [
+                {
+                    "name" : "Belgium",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/belgium.png"
+                },{
+                    "name" : "Canada",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/canada.png"
+                },{
+                    "name" : "Morocco",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/morocco.png"
+                },{
+                    "name" : "Croatia",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/croatia.png"
+                }
+            ],
+            "groupg" : [
+                {
+                    "name" : "Brasil",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/brazil.png"
+                },{
+                    "name" : "Serbia",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/serbia.png"
+                },{
+                    "name" : "Switzerland",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/switzerland.png"
+                },{
+                    "name" : "Cameroon",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/cameroon.png"
+                }
+            ],
+            "grouph" : [
+                {
+                    "name" : "Portugal",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/portugal.png"
+                },{
+                    "name" : "Ghana",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/ghana.png"
+                },{
+                    "name" : "Uruguay",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/uruguay.png"
+                },{
+                    "name" : "Korea Republic",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/south-korea.png"
+                }
+            ]
+        }
+    ],
+
+    "matches" : [
+        {
+            "team_a" : "Ecuador",
+            "team_b" : "senegal",
+            "flag_a" : "https://i.postimg.cc/5yBXqSFN/Ecuador.png",
+            "flag_b" : "https://i.postimg.cc/NjJ54MLT/senegal.png",
+            "date" : "Tues 29 Nov-16:00",
+            "group" : "Group A",
+            "stadium" : "Lusail Stadium"
+        },
+        {
+            "team_a" : "netherlands",
+            "team_b" : "qatar",
+            "flag_a" : "https://i.postimg.cc/CL4ZRJgc/netherlands.png",
+            "flag_b" : "https://i.postimg.cc/L6SY4wrq/qatar.png",
+            "date" : "Tues 29 Nov-16:00",
+            "group" : "Group A",
+            "stadium" : "Education City Stadium"
+        },
+        {
+            "team_a" : "Usa",
+            "team_b" : "Iran",
+            "flag_a" : "https://i.postimg.cc/3wzNscXx/Usa.png",
+            "flag_b" : "https://i.postimg.cc/QN1K3hnG/Iran.png",
+            "date" : "Tues 29 Nov-20:00",
+            "group" : "Group B",
+            "stadium" : "Stadium 974"
+        },
+           {
+            "team_a" : "wales",
+            "team_b" : "England",
+            "flag_a" : "https://i.postimg.cc/3wkWbTDq/wales.png",
+            "flag_b" : "https://i.postimg.cc/3xJkmprY/England.png",
+            "date" : "Tues 29 Nov-20:00",
+            "group" : "Group B",
+            "stadium" : "Al Janoub Stadium"
+        }
+    ],
+
+   "servers" : [
+       {
+            "title" : "Senegal VS Ecuador",
+            "ico" : "https://i.postimg.cc/PfVX9cds/ecuador-vs-senegal.webp",
+            "link" : "http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049173",
+            "type" : "iptv"
+        },
+        {
+            "title" : "Senegal VS Ecuador",
+            "ico" : "https://i.postimg.cc/PfVX9cds/ecuador-vs-senegal.webp",
+            "link" : "http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049173",
+            "type" : "iptv"
+        },
+       {
+            "title" : "Netherlands VS Qatar",
+            "ico" : "https://i.postimg.cc/bNGyhTvG/netherlands-vs-qatar.webp",
+            "link" : "http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049169",
+            "type" : "iptv"
+        },
+        {
+            "title" : "Netherlands VS Qatar",
+            "ico" : "https://i.postimg.cc/bNGyhTvG/netherlands-vs-qatar.webp",
+            "link" : "http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049169",
+            "type" : "iptv"
+        },
+        {
+            "title" : "Iran VS Usa",
+            "ico" : "https://i.postimg.cc/8zMTFzMN/iran-vs-usa.webp",
+            "link" : "http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049173",
+            "type" : "iptv"
+        },
+       {
+            "title" : "Iran VS Usa",
+            "ico" : "https://i.postimg.cc/8zMTFzMN/iran-vs-usa.webp",
+            "link" : "http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049173",
+            "type" : "iptv"
+        },
+        {
+            "title" : "Iran VS Germany",
+            "ico" : "https://i.postimg.cc/rFv8Frdf/wales-vs-england.webp",
+            "link" : "http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049169",
+            "type" : "iptv"
+        },
+       {
+            "title" : "Spain VS Germany",
+            "ico" : "https://i.postimg.cc/rFv8Frdf/wales-vs-england.webp",
+            "link" : "http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049169",
+            "type" : "iptv"
+        }
+       
+
+    ],
+    
+    "news" : [
+        {
+            "title" : "World Cup 2022 takes place in Qatar from November 20 to December 18",
+            "img" : "https://e0.365dm.com/22/10/2048x1152/skysports-world-cup-qatar-2022_5921764.jpg?20221006085810",
+            "details" : "The 2022 World Cup in Qatar kicks off on Sunday November 20 at the Al Bayt Stadium when the hosts take on Ecuador in Group A.The tournament was originally set to begin a day later with Senegal's game against the Netherlands at Al Thumama Stadium but Qatar's match was moved forward to allow them to open their home tournament. England will now feature on the second day with their Group B match against Iran scheduled to take place on Monday November 21 with a 1pm UK time kick-off. The game is just eight days after the Premier League shuts down After qualifying via the play-offs, Wales' first game will also be on Monday November 21.",
+            "referral" : "https://www.skysports.com/football/news/11095/12354033/world-cup-2022-dates-draw-schedule-kick-off-times-final-for-qatar-tournament"
+        },
+        {
+            "title" : "Qatar World Cup ambassador criticised for ‘harmful’ homosexuality comments",
+            "img" : "https://i.guim.co.uk/img/media/e7e7cb30f7f42ec9d2435df0ae988acb1d810325/0_145_3500_2100/master/3500.jpg?width=620&quality=45&dpr=2&s=none",
+            "details" : "Remarks by a Qatar World Cup ambassador have been called “harmful and unacceptable” after he described homosexuality as “damage in the mind”. Khalid Salman, a former Qatar international footballer, made the comments in an interview with the German broadcaster ZDF. Asked about the fact that homosexuality is illegal in his country, Salman said: “They have to accept our rules here. [Homosexuality] is haram. You know what haram means?” When asked why it was haram, or forbidden, Khalid Salman said: “I am not a strict Muslim but why is it haram? Because it is damage in the mind.” Salman was speaking in his capacity as an ambassador for the 2022 World Cup, a role he shares with a number of football legends including Cafu and Xavi Hernández. Organisers described the role of ambassador as “harnessing the power of football to create positive social change in Qatar, across the region and around the globe”. Rasha Younes of the LGBT rights program at Human Rights Watch said: “Salman’s suggestion that same-sex attraction is ‘damage in the mind’ is harmful and unacceptable.” Last month HRW published a report documenting what it claimed was “arbitrary” police action against LGBTQ+ residents in Qatar, including six cases of severe and repeated beatings and five cases of sexual harassment in police custody between 2019 and 2022. A Qatari official said HRW’s allegations “contain information that is categorically and unequivocally false”, without specifying. Fans hoping to travel to the World Cup have also expressed concerns over safety in the country. Documents seen by the Guardian suggest police will be told not to take action against public displays of affection or those who protest for LGBTQ+ rights.",
+            "referral" : "https://www.theguardian.com/football/2022/nov/08/qatar-world-cup-ambassador-homosexuality"
+        },
+        {
+            "title" : "Awarding Qatar the tournament was a mistake, says former Fifa president Sepp Blatter",
+            "img" : "https://cdn.resfu.com/media/img_news/eight-groups---qatar-2022--besoccer.png?size=1200x&lossy=1",
+            "details" : "Blatter, 86, was president of world football's governing body when Qatar was awarded the tournament in 2010. The Gulf state has been criticised for its stance on same-sex relationships, human rights record and treatment of migrant workers. Qatar World Cup ambassador Khalid Salman has said that homosexuality is damage in the mind. The former Qatar international told German broadcaster ZDF that LGBTQ+ people attending the tournament should accept our rules. There is concern about how LGBTQ+ people are treated in Qatar, where same-sex relationships and the promotion of same-sex relationships are criminalised, with punishments ranging from fines to the death sentence..",
+            "referral" : "https://www.bbc.com/sport/football/63554507"
+        },
+        {
+            "title" : "World Cup 2022: Day-by-day fixture & TV guide",
+            "img" : "https://fotos.perfil.com/2022/06/15/trim/720/410/fifa-1372404.jpg",
+            "details" : "The tournament kicks off on 20 November with hosts Qatar facing Ecuador. England and Wales are in action the following day against Iran and the United States respectively in Group B. But where can you watch those games? When are the other group fixtures? What day do the knockout rounds start? And when is the final? BBC Sport provides you with all the fixture and TV information available for the first World Cup to be held outside the northern hemisphere summer.",
+            "referral" : "https://www.bbc.com/sport/football/60959746"
+        }
+    ]
+
+}
