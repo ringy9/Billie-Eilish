@@ -156,41 +156,24 @@
 
     "matches" : [
         {
-            "team_a" : "south-korea",
-            "team_b" : "portugal",
-            "flag_a" : "https://i.postimg.cc/1zWngRMn/south-korea.png",
-            "flag_b" : "https://i.postimg.cc/zfDHXHwY/portugal.png",
-            "date" : "Friday 2 Dec-16:00",
-            "group" : "Group H",
+            "team_a" : "netherlands",
+            "team_b" : "usa",
+            "flag_a" : "https://i.postimg.cc/zfmxXQbW/netherlands.png",
+            "flag_b" : "https://i.postimg.cc/jjzZWhP1/usa.png",
+            "date" : "Saturday 3 Dec-16:00",
+            "group" : "",
             "stadium" : "Lusail Stadium"
         },
         {
-            "team_a" : "ghana",
-            "team_b" : "uruguay",
-            "flag_a" : "https://i.postimg.cc/wjQspQmk/ghana.png",
-            "flag_b" : "https://i.postimg.cc/85jFL8ny/uruguay.png",
-            "date" : "Friday 2 Dec-16:00",
-            "group" : "Group H",
+            "team_a" : "argentina",
+            "team_b" : "australia",
+            "flag_a" : "https://i.postimg.cc/mg1d44DB/argentina.png",
+            "flag_b" : "https://i.postimg.cc/PxTK18M5/australia.png",
+            "date" : "Saturday 3 Dec-20:00",
+            "group" : "",
             "stadium" : "Education City Stadium"
-        },
-        {
-            "team_a" : "cameroon",
-            "team_b" : "brazil",
-            "flag_a" : "https://i.postimg.cc/wjpsZG7v/cameroon.png",
-            "flag_b" : "https://i.postimg.cc/TYmDk62F/brazil.png",
-            "date" : "Friday 2 Dec-20:00",
-            "group" : "Group G",
-            "stadium" : "Stadium 974"
-        },
-           {
-            "team_a" : "switzerland",
-            "team_b" : "serbia",
-            "flag_a" : "https://i.postimg.cc/d1phBWbJ/switzerland.png",
-            "flag_b" : "https://i.postimg.cc/QC7HnQD1/serbia.png",
-            "date" : "Friday 2 Dec-20:00",
-            "group" : "Group G",
-            "stadium" : "Al Janoub Stadium"
         }
+    
     ],
 
    "servers" : [
