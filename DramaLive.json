@@ -9,7 +9,7 @@
             "groups_matches_active" : "on",
             "groups_news_active" : "on",
             "iptv_active" : "off",
-            "live_active" : "off",
+            "live_active" : "on",
 
             "admob_ban": "ca-app-pub-6451220567376497/4242688339",
             "admob_native" : "ca-app-pub-6451220567376497/1221773329",
@@ -156,93 +156,63 @@
 
     "matches" : [
         {
-            "team_a" : "Argentina",
-            "team_b" : "Saudi Arabia",
-            "flag_a" : "https://i.postimg.cc/bYm0C74f/argentina.png",
-            "flag_b" : "https://i.postimg.cc/Y9bFPFnz/saudi-arabia.png",
-            "date" : "Tues 22 Nov-11:00",
-            "group" : "Group C",
+            "team_a" : "france",
+            "team_b" : "poland",
+            "flag_a" : "https://i.postimg.cc/gJnTmj1x/france.png",
+            "flag_b" : "https://i.postimg.cc/rm3YmcLQ/poland.png",
+            "date" : "Sunday 4 Dec-16:00",
+            "group" : "",
             "stadium" : "Lusail Stadium"
         },
         {
-            "team_a" : "Denmark",
-            "team_b" : "Tunisia",
-            "flag_a" : "https://i.postimg.cc/bvvStrNG/denmark.png",
-            "flag_b" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/tunisia.png",
-            "date" : "Tues 22 Nov-14:00",
-            "group" : "Group D",
+            "team_a" : "england",
+            "team_b" : "senegal",
+            "flag_a" : "https://i.postimg.cc/0y03CLpy/england.png",
+            "flag_b" : "https://i.postimg.cc/Pq6RgYVG/senegal.png",
+            "date" : "Sunday 4 Dec-20:00",
+            "group" : "",
             "stadium" : "Education City Stadium"
-        },
-        {
-            "team_a" : "Mexico",
-            "team_b" : "Poland",
-            "flag_a" : "https://i.postimg.cc/Y9bXxhQJ/mexico.png",
-            "flag_b" : "https://i.postimg.cc/cHmz5DGk/poland.png",
-            "date" : "Tues 22 Nov-17:00",
-            "group" : "Group C",
-            "stadium" : "Stadium 974"
-        },
-           {
-            "team_a" : "France",
-            "team_b" : "Australia",
-            "flag_a" : "https://i.postimg.cc/Pxp412r8/france.png",
-            "flag_b" : "https://i.postimg.cc/YSS8Ct5R/australia.png",
-            "date" : "Tues 22 Nov-20:00",
-            "group" : "Group D",
-            "stadium" : "Al Janoub Stadium"
         }
+    
     ],
 
    "servers" : [
        {
-            "title" : "Argentina VS Saudi Arabia",
-            "ico" : "https://i.postimg.cc/kXTvhBYc/argentina-vs-saudi-arabia-football-2022-group-c-world-football-competition-championship-match-7280-7.webp",
-            "link" : "http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049173",
+            "title" : "Bein Max 1 1080p",
+            "ico" : "https://i.postimg.cc/xCQYHg7N/Logo-bein-sports-max-1.png",
+            "link" : "http://173.212.193.243:8080/mo3ad/mo3ad/405",
             "type" : "iptv"
         },
         {
-            "title" : "Argentina VS Saudi Arabia",
-            "ico" : "https://i.postimg.cc/kXTvhBYc/argentina-vs-saudi-arabia-football-2022-group-c-world-football-competition-championship-match-7280-7.webp",
-            "link" : "http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049173",
+            "title" : "Bein Max 1 720p",
+            "ico" : "https://i.postimg.cc/xCQYHg7N/Logo-bein-sports-max-1.png",
+            "link" : "http://mo3ad.xyz:25461/mo3ad001/mo3ad001/1",
             "type" : "iptv"
         },
        {
-            "title" : "Denmark VS Tunisia",
-            "ico" : "https://i.postimg.cc/t4ftp8jn/danemark-tunisie-match-football-2022-2022-world-football-competition-match-championnat-contre-equipe.webp",
-            "link" : "http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049173",
+            "title" : "Bein Max 1 480p",
+            "ico" : "https://i.postimg.cc/xCQYHg7N/Logo-bein-sports-max-1.png",
+            "link" : "http://mo3ad.xyz:25461/mo3ad001/mo3ad001/1",
             "type" : "iptv"
         },
         {
-            "title" : "Denmark VS Tunisia",
-            "ico" : "https://i.postimg.cc/t4ftp8jn/danemark-tunisie-match-football-2022-2022-world-football-competition-match-championnat-contre-equipe.webp",
-            "link" : "http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049173",
+            "title" : "Bein Max 2 1080p",
+            "ico" : "https://i.postimg.cc/vBvyvfFq/Logo-bein-sports-max-2.png",
+            "link" : "http://mo3ad.xyz:25461/mo3ad001/mo3ad001/2",
             "type" : "iptv"
         },
         {
-            "title" : "Mexico VS Poland",
-            "ico" : "https://i.postimg.cc/DzXQZ5vj/mexique-pologne-match-football-2022-2022-world-football-competition-match-championnat-contre-equipes.webp",
-            "link" : "http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049173",
+            "title" : "Bein Max 2 720p",
+            "ico" : "https://i.postimg.cc/vBvyvfFq/Logo-bein-sports-max-2.png",
+            "link" : "http://mo3ad.xyz:25461/mo3ad001/mo3ad001/2",
             "type" : "iptv"
         },
        {
-            "title" : "Mexico VS Poland",
-            "ico" : "https://i.postimg.cc/DzXQZ5vj/mexique-pologne-match-football-2022-2022-world-football-competition-match-championnat-contre-equipes.webp",
-            "link" : "http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049173",
-            "type" : "iptv"
-        },
-        {
-            "title" : "France VS Australia",
-            "ico" : "https://i.postimg.cc/Bbq2m0xk/france-australie-match-football-2022-2022-world-football-competition-championnat-match-contre-equipe.webp",
-            "link" : "http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049173",
-            "type" : "iptv"
-        },
-       {
-            "title" : "France VS Australia",
-            "ico" : "https://i.postimg.cc/Bbq2m0xk/france-australie-match-football-2022-2022-world-football-competition-championnat-match-contre-equipe.webp",
-            "link" : "http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049173",
+            "title" : "Bein Max 2 480p",
+            "ico" : "https://i.postimg.cc/vBvyvfFq/Logo-bein-sports-max-2.png",
+            "link" : "http://mo3ad.xyz:25461/mo3ad001/mo3ad001/2",
             "type" : "iptv"
         }
-       
 
     ],
     
