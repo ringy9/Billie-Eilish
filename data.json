@@ -1,0 +1,39 @@
+{
+  "settings": {
+    "suspended": false,
+    "UpdatePackageName": "************",
+    "img": "********************************",
+    "title": "*******",
+    "message": "************************************",
+    "adsType": "Applovin",
+    "inter_count": 2,
+    "nativeType": "Applovin"
+  },
+  "admob": {
+    "Banner": "ca-app-pub-3940256099942544/6300978111",
+    "Inter": "ca-app-pub-3940256099942544/1033173712",
+    "Native": "ca-app-pub-3940256099942544/2247696110",
+    "OpenAd": "ca-app-pub-3940256099942544/3419835294"
+  },
+  "applovin": {
+    "Banner": "87bd46e447ab2367",
+    "Inter": "7ad1962ea26765d1",
+    "Native": "9be75a6dc7c913cb"
+  },
+  "facebook": {
+    "Banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "Inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "Native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+  },
+  "yandex": {
+    "Banner": "R-M-1698866-1",
+    "Inter": "R-M-1698866-2",
+    "Native": "R-M-1698866-3"
+  },
+  "Unity": {
+    "Banner": "Banner_Android",
+    "Inter": "Interstitial_Android"
+  },
+  "TestUnity": false,
+  "unityId": "4917831"
+}
