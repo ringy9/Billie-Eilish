@@ -156,44 +156,6 @@
 
     "matches" : [
         {
-            "team_a" : "portugal",
-            "team_b" : "morocco",
-            "flag_a" : "https://i.postimg.cc/hGqR9kGn/portugal.png",
-            "flag_b" : "https://i.postimg.cc/vZndxYbX/morocco.png",
-            "date" : "saturday 10 Dec-16:00",
-            "group" : "",
-            "stadium" : "Lusail Stadium"
-        },
-        {
-            "team_a" : "england",
-            "team_b" : "france",
-            "flag_a" : "https://i.postimg.cc/h4CnHZ28/england.png",
-            "flag_b" : "https://i.postimg.cc/65gXQ2Jy/france.png",
-            "date" : "saturday 10 Dec-20:00",
-            "group" : "",
-            "stadium" : "Education City Stadium"
-        }
-    
-    ],
-
-   "servers" : [
-       {
-            "title" : "Bein Max 1 1080p",
-            "ico" : "https://i.postimg.cc/xCQYHg7N/Logo-bein-sports-max-1.png",
-            "link" : "http://sniperstv.vip:8080/Europtv/cQQNMam3Fc/124393",
-            "type" : "iptv"
-        },
-        {
-            "title" : "Bein Max 1 720p",
-            "ico" : "https://i.postimg.cc/xCQYHg7N/Logo-bein-sports-max-1.png",
-            "link" : "http://sniperstv.vip:8080/Europtv/cQQNMam3Fc/124393",
-            "type" : "iptv"
-        },
-       {
-            "title" : "Bein Max 1 480p",
-            "ico" : "https://i.postimg.cc/xCQYHg7N/Logo-bein-sports-max-1.png",
-    "matches" : [
-        {
             "team_a" : "argentina",
             "team_b" : "croatia",
             "flag_a" : "https://i.postimg.cc/FF8tY2MP/argentina.png",
@@ -224,31 +186,31 @@
         {
             "title" : "Bein Max 1 720p",
             "ico" : "https://i.postimg.cc/xCQYHg7N/Logo-bein-sports-max-1.png",
-            "link" : "http://fxorexworld.com:8080/MgubCgIW0Z/UOcAq1ESKD/1232",
+            "link" : "http://lb.buy-global.store:80/live/lb555/bm1-360.m3u8",
             "type" : "iptv"
         },
        {
             "title" : "Bein Max 1 480p",
             "ico" : "https://i.postimg.cc/xCQYHg7N/Logo-bein-sports-max-1.png",
-            "link" : "http://fxorexworld.com:8080/MgubCgIW0Z/UOcAq1ESKD/1232",
+            "link" : "http://lb.buy-global.store:80/live/lb555/bm1-240.m3u8",
             "type" : "iptv"
         },
         {
             "title" : "Bein Max 2 1080p",
             "ico" : "https://i.postimg.cc/vBvyvfFq/Logo-bein-sports-max-2.png",
-            "link" : "http://fxorexworld.com:8080/MgubCgIW0Z/UOcAq1ESKD/1237",
+            "link" : "http://lb.buy-global.store:80/live/lb555/bm2-720.m3u8",
             "type" : "iptv"
         },
         {
             "title" : "Bein Max 2 720p",
             "ico" : "https://i.postimg.cc/vBvyvfFq/Logo-bein-sports-max-2.png",
-            "link" : "http://fxorexworld.com:8080/MgubCgIW0Z/UOcAq1ESKD/1237",
+            "link" : "http://lb.buy-global.store:80/live/lb555/bm2-360.m3u8",
             "type" : "iptv"
         },
        {
             "title" : "Bein Max 2 480p",
             "ico" : "https://i.postimg.cc/vBvyvfFq/Logo-bein-sports-max-2.png",
-            "link" : "http://fxorexworld.com:8080/MgubCgIW0Z/UOcAq1ESKD/1237",
+            "link" : "http://lb.buy-global.store:80/live/lb555/bm2-240.m3u8",
             "type" : "iptv"
         }
 
