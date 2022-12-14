@@ -180,6 +180,10 @@
        {
             "title" : "Bein Max 1 1080p",
             "ico" : "https://i.postimg.cc/xCQYHg7N/Logo-bein-sports-max-1.png",
+   "servers" : [
+       {
+            "title" : "Bein Max 1 1080p",
+            "ico" : "https://i.postimg.cc/xCQYHg7N/Logo-bein-sports-max-1.png",
             "link" : "http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/216928",
             "type" : "iptv"
         },
@@ -215,6 +219,7 @@
         }
 
     ],
+
     "news" : [
         {
             "title" : "World Cup 2022 takes place in Qatar from November 20 to December 18",
