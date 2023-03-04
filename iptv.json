@@ -31,27 +31,6 @@
 
 
 
-    "matches" : [
-        {
-            "team_a" : "argentina",
-            "team_b" : "croatia",
-            "flag_a" : "https://i.postimg.cc/FF8tY2MP/argentina.png",
-            "flag_b" : "https://i.postimg.cc/Fz2wwLbt/croatia.png",
-            "date" : "Tuesday 13 Dec-16:00",
-            "group" : "",
-            "stadium" : "Lusail Stadium"
-        },
-        {
-            "team_a" : "morocco",
-            "team_b" : "france",
-            "flag_a" : "https://i.postimg.cc/vZndxYbX/morocco.png",
-            "flag_b" : "https://i.postimg.cc/65gXQ2Jy/france.png",
-            "date" : "Wen 14 Dec-20:00",
-            "group" : "",
-            "stadium" : "Education City Stadium"
-        }
-    
-    ],
 
    "servers" : [
        {
