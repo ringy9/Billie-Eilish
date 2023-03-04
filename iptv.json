@@ -5,8 +5,8 @@
             "activate_ads" : "true",
             "int_interval" : 2,
 
-            "groups_box_active" : "on",
-            "groups_matches_active" : "on",
+            "groups_box_active" : "off",
+            "groups_matches_active" : "off",
             "groups_news_active" : "on",
             "iptv_active" : "off",
             "live_active" : "on",
