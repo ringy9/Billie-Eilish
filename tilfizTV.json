@@ -5,240 +5,96 @@
             "activate_ads" : "true",
             "int_interval" : 2,
 
-            "groups_box_active" : "on",
-            "groups_matches_active" : "on",
+            "groups_box_active" : "off",
+            "groups_matches_active" : "off",
             "groups_news_active" : "on",
             "iptv_active" : "off",
-            "live_active" : "on",
+            "live_active" : "off",
 
-            "admob_ban": "ca-app-pub-6451220567376497/4242688339",
-            "admob_native" : "ca-app-pub-6451220567376497/1221773329",
-            "admob_int": "ca-app-pub-6451220567376497/2011276663",
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_native" : "ca-app-pub-3940256099942544/2247696110",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
 
-            "fan_ban": "680075590215147_680083426881030",
-            "fan_native": "680075590215147_680083566881016",
-            "fan_int": "680075590215147_680083506881022",
+            "fan_ban": "886964966006374_886965492672988",
+            "fan_native": "886964966006374_886965646006306",
+            "fan_int": "886964966006374_886965572672980",
 
             "iron_key": "17417cb4d",
             "iron_ban" : "DefaultBanner",
             "iron_int" : "DefaultInterstitial",
 
-            "max_ban" : "fc93f9cd6479d45b",
-            "max_native" : "ec4053518bf53f1a",
-            "max_int" : "41a2f11e9aa60bd7"
+            "max_ban" : "cd1b84d6b3328614",
+            "max_native" : "2dc156e234fb61c0",
+            "max_int" : "6a91c30bcc0a0685"
         }
     ],
 
-    "groups" : [
-        {
-            "groupa" : [
-                {
-                    "name" : "Qatar",
-                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/qatar.png"
-                },{
-                    "name" : "Ecuador",
-                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/ecuador.png"
-                },{
-                    "name" : "Senegal",
-                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/senegal.png"
-                },{
-                    "name" : "Netherlands",
-                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/netherlands.png"
-                }
-            ],
-            "groupb" : [
-                {
-                    "name" : "England",
-                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/england.png"
-                },{
-                    "name" : "Iran",
-                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/iran.png"
-                },{
-                    "name" : "USA",
-                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/usa.png"
-                },{
-                    "name" : "Wales",
-                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/wales.png"
-                }
-            ],
-            "groupc" : [
-                {
-                    "name" : "Argentina",
-                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/argentina.png"
-                },{
-                    "name" : "Saudi Arabia",
-                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/saudi-arabia.png"
-                },{
-                    "name" : "Mexico",
-                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/mexico.png"
-                },{
-                    "name" : "Poland",
-                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/poland.png"
-                }
-            ],
-            "groupd" : [
-                {
-                    "name" : "France",
-                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/france.png"
-                },{
-                    "name" : "Australia",
-                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/australia.png"
-                },{
-                    "name" : "Denmark",
-                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/denmark.png"
-                },{
-                    "name" : "Tunisia",
-                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/tunisia.png"
-                }
-            ],
-            "groupe" : [
-                {
-                    "name" : "Spain",
-                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/spain.png"
-                },{
-                    "name" : "Costa Rica",
-                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/costa-rica.png"
-                },{
-                    "name" : "Germany",
-                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/germany.png"
-                },{
-                    "name" : "Japan",
-                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/japan.png"
-                }
-            ],
-            "groupf" : [
-                {
-                    "name" : "Belgium",
-                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/belgium.png"
-                },{
-                    "name" : "Canada",
-                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/canada.png"
-                },{
-                    "name" : "Morocco",
-                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/morocco.png"
-                },{
-                    "name" : "Croatia",
-                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/croatia.png"
-                }
-            ],
-            "groupg" : [
-                {
-                    "name" : "Brasil",
-                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/brazil.png"
-                },{
-                    "name" : "Serbia",
-                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/serbia.png"
-                },{
-                    "name" : "Switzerland",
-                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/switzerland.png"
-                },{
-                    "name" : "Cameroon",
-                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/cameroon.png"
-                }
-            ],
-            "grouph" : [
-                {
-                    "name" : "Portugal",
-                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/portugal.png"
-                },{
-                    "name" : "Ghana",
-                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/ghana.png"
-                },{
-                    "name" : "Uruguay",
-                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/uruguay.png"
-                },{
-                    "name" : "Korea Republic",
-                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/south-korea.png"
-                }
-            ]
-        }
-    ],
 
-    "matches" : [
-        {
-            "team_a" : "argentina",
-            "team_b" : "croatia",
-            "flag_a" : "https://i.postimg.cc/FF8tY2MP/argentina.png",
-            "flag_b" : "https://i.postimg.cc/Fz2wwLbt/croatia.png",
-            "date" : "Tuesday 13 Dec-16:00",
-            "group" : "",
-            "stadium" : "Lusail Stadium"
-        },
-        {
-            "team_a" : "morocco",
-            "team_b" : "france",
-            "flag_a" : "https://i.postimg.cc/vZndxYbX/morocco.png",
-            "flag_b" : "https://i.postimg.cc/65gXQ2Jy/france.png",
-            "date" : "Wen 14 Dec-20:00",
-            "group" : "",
-            "stadium" : "Education City Stadium"
-        }
-    
-    ],
+
 
    "servers" : [
        {
             "title" : "Bein Max 1 1080p",
             "ico" : "https://i.postimg.cc/xCQYHg7N/Logo-bein-sports-max-1.png",
-            "link" : "http://lb.buy-global.store:80/live/lb555/bm1-240.m3u8",
+            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/54747.ts",
             "type" : "iptv"
         },
         {
             "title" : "Bein Max 1 720p",
             "ico" : "https://i.postimg.cc/xCQYHg7N/Logo-bein-sports-max-1.png",
-            "link" : "http://lb.buy-global.store:80/live/lb555/bm1-240.m3u8",
+            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/54747.ts",
             "type" : "iptv"
         },
        {
             "title" : "Bein Max 1 480p",
             "ico" : "https://i.postimg.cc/xCQYHg7N/Logo-bein-sports-max-1.png",
-            "link" : "http://lb.buy-global.store:80/live/lb555/bm1-240.m3u8",
+            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/54747.ts",
             "type" : "iptv"
         },
         {
             "title" : "Bein Max 2 1080p",
             "ico" : "https://i.postimg.cc/vBvyvfFq/Logo-bein-sports-max-2.png",
-            "link" : "http://lb.buy-global.store:80/live/lb555/bm2-240.m3u8",
+            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/54761.ts",
             "type" : "iptv"
         },
         {
             "title" : "Bein Max 2 720p",
             "ico" : "https://i.postimg.cc/vBvyvfFq/Logo-bein-sports-max-2.png",
-            "link" : "http://lb.buy-global.store:80/live/lb555/bm2-240.m3u8",
+            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/54761.ts",
             "type" : "iptv"
         },
        {
             "title" : "Bein Max 2 480p",
             "ico" : "https://i.postimg.cc/vBvyvfFq/Logo-bein-sports-max-2.png",
-            "link" : "http://lb.buy-global.store:80/live/lb555/bm2-240.m3u8",
+            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/54761.ts",
             "type" : "iptv"
         }
 
     ],
     "news" : [
         {
-            "title" : "World Cup 2022 takes place in Qatar from November 20 to December 18",
-            "img" : "https://e0.365dm.com/22/10/2048x1152/skysports-world-cup-qatar-2022_5921764.jpg?20221006085810",
-            "details" : "The 2022 World Cup in Qatar kicks off on Sunday November 20 at the Al Bayt Stadium when the hosts take on Ecuador in Group A.The tournament was originally set to begin a day later with Senegal's game against the Netherlands at Al Thumama Stadium but Qatar's match was moved forward to allow them to open their home tournament. England will now feature on the second day with their Group B match against Iran scheduled to take place on Monday November 21 with a 1pm UK time kick-off. The game is just eight days after the Premier League shuts down After qualifying via the play-offs, Wales' first game will also be on Monday November 21.",
-            "referral" : "https://www.skysports.com/football/news/11095/12354033/world-cup-2022-dates-draw-schedule-kick-off-times-final-for-qatar-tournament"
+            "title" : "بايرن ميونيخ يكرر تفوقه على باريس سان جيرمان ويصعد إلى ربع نهائي دوري أبطال أوروبا",
+            "img" : "https://i.postimg.cc/vZzqM8Fb/bayern-munich-psg-ligue-des-champions-8-mars-2023-a1511d-0-1x.jpg",
+            "details" : "تمكن بايرن ميونيخ من الفوز على باريس سان جيرمان بنتيجة 2-0 في المباراة التي أقيمت بينهما في إياب ربع نهائي دوري أبطال أوروبا. شهدت المباراة مستوى عاليًا من الأداء من الجانبين، خاصة في الشوط الأول الذي انتهى بالتعادل السلبي. في الشوط الثاني، تمكن تشوبو موتينغ من تسجيل الهدف الأول لبايرن ميونيخ في الدقيقة 61 بعد تمريرة حاسمة من ليون غوريتسكا. وفي الدقيقة 89، أضاف سيرج غنابري الهدف الثاني لصالح بايرن مستغلاً تمريرة حاسمة من البديل لوروا سانيه.بفوزه في مجموع مباراتي الذهاب والعودة (3-0)، تأهل بايرن ميونيخ إلى نصف نهائي دوري أبطال أوروبا، وسيواجه الفائز من مباراة ليفربول وريال مدريد. ومن الملاحظ أن لاعبين سابقين من سان جيرمان، تشوبو موتينغ وكينغسلي كومان، سجلا خمسة من أخر سبعة أهداف لبايرن ميونيخ في شباك سان جيرمان.",
+            "referral" : "https://www.beinsports.com/ar/%D8%AF%D9%88%D8%B1%D9%8A-%D8%A3%D8%A8%D8%B7%D8%A7%D9%84-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/%D8%A8%D8%A7%D9%8A%D8%B1%D9%86-%D9%85%D9%8A%D9%88%D9%86%D9%8A%D8%AE-%D9%8A%D9%83%D8%B1%D8%B1-%D8%AA%D9%81%D9%88%D9%82%D9%87-/2051738"
         },
         {
-            "title" : "Qatar World Cup ambassador criticised for ‘harmful’ homosexuality comments",
-            "img" : "https://i.guim.co.uk/img/media/e7e7cb30f7f42ec9d2435df0ae988acb1d810325/0_145_3500_2100/master/3500.jpg?width=620&quality=45&dpr=2&s=none",
-            "details" : "Remarks by a Qatar World Cup ambassador have been called “harmful and unacceptable” after he described homosexuality as “damage in the mind”. Khalid Salman, a former Qatar international footballer, made the comments in an interview with the German broadcaster ZDF. Asked about the fact that homosexuality is illegal in his country, Salman said: “They have to accept our rules here. [Homosexuality] is haram. You know what haram means?” When asked why it was haram, or forbidden, Khalid Salman said: “I am not a strict Muslim but why is it haram? Because it is damage in the mind.” Salman was speaking in his capacity as an ambassador for the 2022 World Cup, a role he shares with a number of football legends including Cafu and Xavi Hernández. Organisers described the role of ambassador as “harnessing the power of football to create positive social change in Qatar, across the region and around the globe”. Rasha Younes of the LGBT rights program at Human Rights Watch said: “Salman’s suggestion that same-sex attraction is ‘damage in the mind’ is harmful and unacceptable.” Last month HRW published a report documenting what it claimed was “arbitrary” police action against LGBTQ+ residents in Qatar, including six cases of severe and repeated beatings and five cases of sexual harassment in police custody between 2019 and 2022. A Qatari official said HRW’s allegations “contain information that is categorically and unequivocally false”, without specifying. Fans hoping to travel to the World Cup have also expressed concerns over safety in the country. Documents seen by the Guardian suggest police will be told not to take action against public displays of affection or those who protest for LGBTQ+ rights.",
+            "title" : "ميلان يطيح بتوتنهام ويعبر إلى ربع نهائي دوري أبطال أوروبا",
+            "img" : "https://i.postimg.cc/MKtVpnTP/3556047-72430109-640-480.jpg",
+            "details" : "مباراة في دوري أبطال أوروبا بين فريقي توتنهام وميلان، حيث تم تأجيل المباراة عشر دقائق بسبب تأخر الفريقين في الوصول إلى الملعب بسبب الزحام. ولم يتمكن الفريقان من تسجيل أي أهداف في الشوط الأول، وظل اللقاء قائمًا حتى الدقيقة الأخيرة، حيث اضطر فريق توتنهام لإكمال المباراة بعشرة لاعبين بعد حصول أحدهم على الإنذار الثاني، وانتهت المباراة بالتعادل السلبي 0-0، ليتأهل ميلان إلى ربع النهائي بفوزه بمجموع المباراتين بهدف دون مقابل.",
             "referral" : "https://www.theguardian.com/football/2022/nov/08/qatar-world-cup-ambassador-homosexuality"
         },
         {
-            "title" : "Awarding Qatar the tournament was a mistake, says former Fifa president Sepp Blatter",
-            "img" : "https://cdn.resfu.com/media/img_news/eight-groups---qatar-2022--besoccer.png?size=1200x&lossy=1",
-            "details" : "Blatter, 86, was president of world football's governing body when Qatar was awarded the tournament in 2010. The Gulf state has been criticised for its stance on same-sex relationships, human rights record and treatment of migrant workers. Qatar World Cup ambassador Khalid Salman has said that homosexuality is damage in the mind. The former Qatar international told German broadcaster ZDF that LGBTQ+ people attending the tournament should accept our rules. There is concern about how LGBTQ+ people are treated in Qatar, where same-sex relationships and the promotion of same-sex relationships are criminalised, with punishments ranging from fines to the death sentence..",
-            "referral" : "https://www.bbc.com/sport/football/63554507"
+            "title" : "بايرن ميونيخ يكرر تفوقه على باريس سان جيرمان ويصعد إلى ربع نهائي دوري أبطال أوروبا",
+            "img" : "https://i.postimg.cc/vZzqM8Fb/bayern-munich-psg-ligue-des-champions-8-mars-2023-a1511d-0-1x.jpg",
+            "details" : "تمكن بايرن ميونيخ من الفوز على باريس سان جيرمان بنتيجة 2-0 في المباراة التي أقيمت بينهما في إياب ربع نهائي دوري أبطال أوروبا. شهدت المباراة مستوى عاليًا من الأداء من الجانبين، خاصة في الشوط الأول الذي انتهى بالتعادل السلبي. في الشوط الثاني، تمكن تشوبو موتينغ من تسجيل الهدف الأول لبايرن ميونيخ في الدقيقة 61 بعد تمريرة حاسمة من ليون غوريتسكا. وفي الدقيقة 89، أضاف سيرج غنابري الهدف الثاني لصالح بايرن مستغلاً تمريرة حاسمة من البديل لوروا سانيه.بفوزه في مجموع مباراتي الذهاب والعودة (3-0)، تأهل بايرن ميونيخ إلى نصف نهائي دوري أبطال أوروبا، وسيواجه الفائز من مباراة ليفربول وريال مدريد. ومن الملاحظ أن لاعبين سابقين من سان جيرمان، تشوبو موتينغ وكينغسلي كومان، سجلا خمسة من أخر سبعة أهداف لبايرن ميونيخ في شباك سان جيرمان.",
+            "referral" : "https://www.beinsports.com/ar/%D8%AF%D9%88%D8%B1%D9%8A-%D8%A3%D8%A8%D8%B7%D8%A7%D9%84-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/%D8%A8%D8%A7%D9%8A%D8%B1%D9%86-%D9%85%D9%8A%D9%88%D9%86%D9%8A%D8%AE-%D9%8A%D9%83%D8%B1%D8%B1-%D8%AA%D9%81%D9%88%D9%82%D9%87-/2051738"
         },
         {
-            "title" : "World Cup 2022: Day-by-day fixture & TV guide",
-            "img" : "https://fotos.perfil.com/2022/06/15/trim/720/410/fifa-1372404.jpg",
-            "details" : "The tournament kicks off on 20 November with hosts Qatar facing Ecuador. England and Wales are in action the following day against Iran and the United States respectively in Group B. But where can you watch those games? When are the other group fixtures? What day do the knockout rounds start? And when is the final? BBC Sport provides you with all the fixture and TV information available for the first World Cup to be held outside the northern hemisphere summer.",
-            "referral" : "https://www.bbc.com/sport/football/60959746"
+            "title" : "ميلان يطيح بتوتنهام ويعبر إلى ربع نهائي دوري أبطال أوروبا",
+            "img" : "https://i.postimg.cc/MKtVpnTP/3556047-72430109-640-480.jpg",
+            "details" : "مباراة في دوري أبطال أوروبا بين فريقي توتنهام وميلان، حيث تم تأجيل المباراة عشر دقائق بسبب تأخر الفريقين في الوصول إلى الملعب بسبب الزحام. ولم يتمكن الفريقان من تسجيل أي أهداف في الشوط الأول، وظل اللقاء قائمًا حتى الدقيقة الأخيرة، حيث اضطر فريق توتنهام لإكمال المباراة بعشرة لاعبين بعد حصول أحدهم على الإنذار الثاني، وانتهت المباراة بالتعادل السلبي 0-0، ليتأهل ميلان إلى ربع النهائي بفوزه بمجموع المباراتين بهدف دون مقابل.",
+            "referral" : "https://www.theguardian.com/football/2022/nov/08/qatar-world-cup-ambassador-homosexuality"
         }
     ]
 
