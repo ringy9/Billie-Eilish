@@ -29,48 +29,48 @@
         }
     ],
 
-
-
-
    "servers" : [
        {
-            "title" : "Bein Max 1 1080p",
-            "ico" : "https://i.postimg.cc/xCQYHg7N/Logo-bein-sports-max-1.png",
-            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/54747.ts",
+            "title" : "HD BEIN SPORTS PREMUIM 1",
+            "ico" : "https://i.postimg.cc/fbwJCPMC/bein-sports-premium-1.png",
+            "link" : "http://h2.fire-iptv.cc:2052/csp11xsxkhkdshdkhskdhhkshkd/localttt77kshdskhdkh/523",
             "type" : "iptv"
         },
         {
-            "title" : "Bein Max 1 720p",
-            "ico" : "https://i.postimg.cc/xCQYHg7N/Logo-bein-sports-max-1.png",
-            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/54747.ts",
+            "title" : "HD BEIN SPORTS PREMUIM 2",
+            "ico" : "https://i.postimg.cc/qRqgVChC/bein-sports-premium-2.png",
+            "link" : "http://h2.fire-iptv.cc:2052/csp11xsxkhkdshdkhskdhhkshkd/localttt77kshdskhdkh/525",
             "type" : "iptv"
         },
        {
-            "title" : "Bein Max 1 480p",
-            "ico" : "https://i.postimg.cc/xCQYHg7N/Logo-bein-sports-max-1.png",
-            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/54747.ts",
+            "title" : "HD BEIN SPORTS PREMUIM 3 ",
+            "ico" : "https://i.postimg.cc/JnF014ZY/bein-sports-premium-3.png",
+            "link" : "http://h2.fire-iptv.cc:2052/csp11xsxkhkdshdkhskdhhkshkd/localttt77kshdskhdkh/527",
             "type" : "iptv"
         },
         {
-            "title" : "Bein Max 2 1080p",
-            "ico" : "https://i.postimg.cc/vBvyvfFq/Logo-bein-sports-max-2.png",
-            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/54761.ts",
+            "title" : "HD BEIN SPORTS PREMIUM 1",
+            "ico" : "https://i.postimg.cc/fbwJCPMC/bein-sports-premium-1.png",
+            "link" : "http://h2.fire-iptv.cc:2052/csp11xsxkhkdshdkhskdhhkshkd/localttt77kshdskhdkh/285741",
             "type" : "iptv"
         },
         {
-            "title" : "Bein Max 2 720p",
-            "ico" : "https://i.postimg.cc/vBvyvfFq/Logo-bein-sports-max-2.png",
-            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/54761.ts",
+            "title" : "HD BEIN SPORTS PREMIUM 2",
+            "ico" : "https://i.postimg.cc/qRqgVChC/bein-sports-premium-2.png",
+            "link" : "http://h2.fire-iptv.cc:2052/csp11xsxkhkdshdkhskdhhkshkd/localttt77kshdskhdkh/285742",
             "type" : "iptv"
         },
        {
-            "title" : "Bein Max 2 480p",
-            "ico" : "https://i.postimg.cc/vBvyvfFq/Logo-bein-sports-max-2.png",
-            "link" : "http://server.sibfungold.info:8080/live/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/54761.ts",
+            "title" : "HD BEIN SPORTS PREMIUM 3",
+            "ico" : "https://i.postimg.cc/JnF014ZY/bein-sports-premium-3.png",
+            "link" : "http://h2.fire-iptv.cc:2052/csp11xsxkhkdshdkhskdhhkshkd/localttt77kshdskhdkh/285743",
             "type" : "iptv"
         }
 
     ],
+
+
+
     "news" : [
         {
             "title" : "بايرن ميونيخ يكرر تفوقه على باريس سان جيرمان ويصعد إلى ربع نهائي دوري أبطال أوروبا",
